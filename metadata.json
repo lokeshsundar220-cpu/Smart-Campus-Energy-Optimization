@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Campus Energy Optimization Planner",
+  "description": "A comprehensive web application to monitor, analyze, predict, and optimize energy usage across a campus. It provides dashboards, real-time metrics, AI-powered optimization recommendations, and scheduling tools to reduce energy waste and improve sustainability.",
+  "requestFramePermissions": []
+}
